@@ -1,8 +1,7 @@
 # email-generator-fe-service
 
-## Currently Deployed at: ```bash
-    https://email-generator-fe-dot-email-generator-400307.wl.r.appspot.com/
-    ```
+## Currently Deployed at: [Link](https://email-generator-fe-dot-email-generator-400307.wl.r.appspot.com/)
+https://email-generator-fe-dot-email-generator-400307.wl.r.appspot.com/
 
 Frontend service for Personalized Email Generator using GPT
 
