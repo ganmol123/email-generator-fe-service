@@ -1,4 +1,9 @@
 # email-generator-fe-service
+
+## Currently Deployed at: ```bash
+    https://email-generator-fe-dot-email-generator-400307.wl.r.appspot.com/
+    ```
+
 Frontend service for Personalized Email Generator using GPT
 
 This Node.js application allows you to generate personalized emails using the GPT (Generative Pre-trained Transformer) language model. You can input recipient details, keywords, and other parameters, and the application will generate a personalized email for you.
